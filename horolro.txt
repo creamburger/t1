@@ -1,0 +1,2 @@
+//꼭 다음과 같은 형태로 작성해주세요! "{\"id\" : \"(아이디적기)\", \"password\" : \"(패스워드적기)\", \"name\" : \"(이름적기)\", \"phonenum\" : \"(연락처적기)\"}"
+"{\"id\" : \"testid\", \"password\" : \"testpw\", \"name\" : \"testname\", \"phonenum\" : \"testphonenum\"}"
